@@ -33,7 +33,7 @@ output:
 # Workshop Registry {-}
 
 1. [Computing basics](#computing-basics)
-2. [Data Science Concepts](#data-science-concepts)
+2. [Data science concepts](#data-science-concepts)
 3. [GIS](#gis)
 4. [Miscellaneous](#miscellaneous)
 5. [Python](#python)
@@ -47,7 +47,7 @@ Line](https://ucdavisdatalab.github.io/workshop_introduction_to_the_command_line
 + [Introduction to SQL for Querying
 Databases](https://ucdavisdatalab.github.io/workshop_intro_to_sql/)
 
-## Data Science Concepts
+## Data science concepts
 
 + [Critical Approaches to Data
 Visualization](https://ucdavisdatalab.github.io/workshop_critical_data_viz/)
@@ -67,7 +67,7 @@ Science](https://ucdavisdatalab.github.io/responsible-data-science/)
 + [Introduction to Desktop GIS with
 QGIS](https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/)
 + [Spatial SQL with SpatiaLite](https://github.com/ucdavisdatalab/Spatial_SQL)
-+ [Web Maps](https://ucdavisdatalab.github.io/workshop_web_maps/)
++ [Building Web Maps with Leaflet](https://ucdavisdatalab.github.io/workshop_web_maps/)
 
 ## Miscellaneous
 
