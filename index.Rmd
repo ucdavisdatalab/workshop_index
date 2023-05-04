@@ -30,7 +30,11 @@ output:
       edit: https://github.com/ucdavisdatalab/workshop_index/edit/master/%s
 ---
 
-# Workshop Registry {-}
+# Workshop Reader Registry {-}
+
+Listed below are links to various workshop resources maintained by the UC Davis
+DataLab. Want to know more information about a specific workshop session? Visit
+the DataLab's [workshop archive page](https://datalab.ucdavis.edu/workshops/).
 
 1. [Computing basics](#computing-basics)
 2. [Data science concepts](#data-science-concepts)
@@ -64,10 +68,12 @@ Science](https://ucdavisdatalab.github.io/responsible-data-science/)
 
 ## GIS
 
++ [Building Web Maps with Leaflet](https://ucdavisdatalab.github.io/workshop_web_maps/)
++ [Coordinate Reference
+Systems](https://ucdavisdatalab.github.io/workshop_coordinate_reference_systems/)
 + [Introduction to Desktop GIS with
 QGIS](https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/)
 + [Spatial SQL with SpatiaLite](https://github.com/ucdavisdatalab/Spatial_SQL)
-+ [Building Web Maps with Leaflet](https://ucdavisdatalab.github.io/workshop_web_maps/)
 
 ## Miscellaneous
 
@@ -91,6 +97,12 @@ Basics](https://ucdavisdatalab.github.io/workshop_python_basics)
 ## R
 
 + [Intermediate R](https://ucdavisdatalab.github.io/workshop_intermediate_r/)
++ [Introduction to Basic Statistics with
+R](https://ucdavisdatalab.github.io/basic_stats_r_1/)
++ [Introduction to Spatial Statistics in
+R](https://ucdavisdatalab.github.io/workshop-spatial-stats/)
++ [Model
+Validation](https://ucdavisdatalab.github.io/workshop-model-validation/)
 + [R Basics](https://ucdavisdatalab.github.io/workshop_r_basics/)
 
 ## Version Control
