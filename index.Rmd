@@ -1,6 +1,6 @@
 ---
-title: YOUR WORKSHOP TITLE
-author: [YOUR NAME]
+title: DataLab Workshop Index
+author: DataLab team
 date: "`r Sys.Date()`"
 
 github-repo: ucdavisdatalab/YOUR_REPO
@@ -32,4 +32,4 @@ output:
 
 # Overview {-}
 
-YOUR DESCRIPTION, LEARNING GOALS, PREREQUISITES, ETC
+Linked list of all DataLab produced open educational training resources (aka "readers").
