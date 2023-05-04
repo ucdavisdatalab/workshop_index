@@ -1,0 +1,7 @@
+computing-basics
+data-science-concepts
+gis
+miscellaneous
+python
+r
+version-control

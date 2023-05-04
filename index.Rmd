@@ -1,10 +1,10 @@
 ---
-title: DataLab Workshop Index
-author: DataLab team
+title: UC Davis DataLab Workshop Index
+#author: [YOUR NAME]
 date: "`r Sys.Date()`"
 
-github-repo: ucdavisdatalab/YOUR_REPO
-url: "https://ucdavisdatalab.github.io/YOUR_REPO/"
+github-repo: https://github.com/ucdavisdatalab/workshop_index
+url: "https://ucdavisdatalab.github.io/workshop_index/"
 
 lang: en-us
 
@@ -19,7 +19,7 @@ output:
           <li><a href="https://datalab.ucdavis.edu/">
             <img src="https://datalab.ucdavis.edu/wp-content/uploads/2019/07/datalab-logo-full-color-rgb-1.png" style="height: 100%; width: 100%; object-fit: contain" />
           </a></li>
-          <li><a href="./" style="font-size: 18px">YOUR WORKSHOP TITLE</a></li>
+          <li><a href="./" style="font-size: 18px">UC Davis DataLab Workshops</a></li>
         after: |
           <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
             <img alt="CC BY-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" style="float: right; padding-right: 10px;" />
@@ -30,6 +30,72 @@ output:
       edit: https://github.com/ucdavisdatalab/workshop_index/edit/master/%s
 ---
 
-# Overview {-}
+# Workshop Registry {-}
 
-Linked list of all DataLab produced open educational training resources (aka "readers").
+1. [Computing basics](#computing-basics)
+2. [Data Science Concepts](#data-science-concepts)
+3. [GIS](#gis)
+4. [Miscellaneous](#miscellaneous)
+5. [Python](#python)
+6. [R](#r)
+7. [Version Control](#version-control)
+
+## Computing Basics
+
++ [Introduction to the Command
+Line](https://ucdavisdatalab.github.io/workshop_introduction_to_the_command_line/)
++ [Introduction to SQL for Querying
+Databases](https://ucdavisdatalab.github.io/workshop_intro_to_sql/)
+
+## Data Science Concepts
+
++ [Critical Approaches to Data
+Visualization](https://ucdavisdatalab.github.io/workshop_critical_data_viz/)
++ [Developing Your Data Science
+Portfolio](https://ucdavisdatalab.github.io/workshop_portfolios/)
++ [Excelling with
+Excel](https://ucdavisdatalab.github.io/workshop_keeping_data_tidy/)
++ [Principles of Data
+Visualization](https://ucdavisdatalab.github.io/workshop_data_viz_principles/)
++ [README, Write Me! Digital Project Organization and
+Documentation](https://ucdavisdatalab.github.io/workshop_how-to-data-documentation/)
++ [Responsible Data
+Science](https://ucdavisdatalab.github.io/responsible-data-science/)
+
+## GIS
+
++ [Introduction to Desktop GIS with
+QGIS](https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/)
++ [Spatial SQL with SpatiaLite](https://github.com/ucdavisdatalab/Spatial_SQL)
++ [Web Maps](https://ucdavisdatalab.github.io/workshop_web_maps/)
+
+## Miscellaneous
+
++ [Dynamic Data
+Visualization](https://ucdavisdatalab.github.io/workshop_dynamic_data_viz)
++ [Network Visualization](https://ucdavisdatalab.github.io/workshop_network_viz/)
+
+## Python
+
++ [Getting Started with Textual
+Data](https://ucdavisdatalab.github.io/workshop_getting_started_with_textual_data/)
++ [Intermediate
+Python](https://ucdavisdatalab.github.io/workshop_intermediate_python)
++ [Natural Language Processing with
+Python](https://ucdavisdatalab.github.io/workshop_nlp_with_python/)
++ [Optical Character Recognition and Working with Messy Text
+Data](https://ucdavisdatalab.github.io/workshop_ocr_python)
++ [Python
+Basics](https://ucdavisdatalab.github.io/workshop_python_basics)
+
+## R
+
++ [Intermediate R](https://ucdavisdatalab.github.io/workshop_intermediate_r/)
++ [R Basics](https://ucdavisdatalab.github.io/workshop_r_basics/)
+
+## Version Control
+
++ [Introduction to Version
+Control](https://ucdavisdatalab.github.io/workshop_introduction_to_version_control/)
++ [Reproducible Research for Teams with
+GitHub](https://ucdavisdatalab.github.io/workshop_git_for_teams/)
