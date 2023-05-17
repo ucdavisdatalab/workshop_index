@@ -69,8 +69,10 @@ Science](https://ucdavisdatalab.github.io/responsible-data-science/)
 ## GIS
 
 + [Building Web Maps with Leaflet](https://ucdavisdatalab.github.io/workshop_web_maps/)
++ [Cartography for Map Figures in Academic Journals & Books](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures)
 + [Coordinate Reference
 Systems](https://ucdavisdatalab.github.io/workshop_coordinate_reference_systems/)
++ [Geocoding](https://github.com/MicheleTobias/geocoding-workshop)
 + [Introduction to Desktop GIS with
 QGIS](https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/)
 + [Spatial SQL with SpatiaLite](https://github.com/ucdavisdatalab/Spatial_SQL)
