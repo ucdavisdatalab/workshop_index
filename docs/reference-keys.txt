@@ -1,7 +1,10 @@
 computing-basics
 data-science-concepts
+data-visualization
 gis
-miscellaneous
+julia
 python
 r
+statistics
+text-mining-and-natural-language-processing
 version-control
