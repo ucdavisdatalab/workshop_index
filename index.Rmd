@@ -36,82 +36,100 @@ Listed below are links to various workshop resources maintained by the UC Davis
 DataLab. Want to know more information about a specific workshop session? Visit
 the DataLab's [workshop archive page](https://datalab.ucdavis.edu/workshops/).
 
-1. [Computing basics](#computing-basics)
-2. [Data science concepts](#data-science-concepts)
-3. [GIS](#gis)
-4. [Miscellaneous](#miscellaneous)
-5. [Python](#python)
-6. [R](#r)
-7. [Version Control](#version-control)
+1.  [Computing basics](#computing-basics)
+2.  [Data science concepts](#data-science-concepts)
+3.  [Data visualization](#data-visualization)
+4.  [GIS](#gis)
+5.  [Julia](#julia)
+6.  [Python](#python)
+7.  [R](#r)
+8.  [Statistics](#statistics)
+9.  [Text mining and natural language
+    processing](#text-mining-and-natural-language-processing)
+10. [Version Control](#version-control)
 
 ## Computing Basics
 
 + [Introduction to the Command
-Line](https://ucdavisdatalab.github.io/workshop_introduction_to_the_command_line/)
+  Line](https://ucdavisdatalab.github.io/workshop_introduction_to_the_command_line/)
 + [Introduction to SQL for Querying
-Databases](https://ucdavisdatalab.github.io/workshop_intro_to_sql/)
+  Databases](https://ucdavisdatalab.github.io/workshop_intro_to_sql/)
 
 ## Data science concepts
 
-+ [Critical Approaches to Data
-Visualization](https://ucdavisdatalab.github.io/workshop_critical_data_viz/)
 + [Developing Your Data Science
-Portfolio](https://ucdavisdatalab.github.io/workshop_portfolios/)
+  Portfolio](https://ucdavisdatalab.github.io/workshop_portfolios/)
 + [Excelling with
-Excel](https://ucdavisdatalab.github.io/workshop_keeping_data_tidy/)
-+ [Principles of Data
-Visualization](https://ucdavisdatalab.github.io/workshop_data_viz_principles/)
+  Excel](https://ucdavisdatalab.github.io/workshop_keeping_data_tidy/)
 + [README, Write Me! Digital Project Organization and
-Documentation](https://ucdavisdatalab.github.io/workshop_how-to-data-documentation/)
+  Documentation](https://ucdavisdatalab.github.io/workshop_how-to-data-documentation/)
++ [Reproducibility Principles and
+  Practices](https://ucdavisdatalab.github.io/workshop_reproducible_research/)
 + [Responsible Data
-Science](https://ucdavisdatalab.github.io/responsible-data-science/)
+  Science](https://ucdavisdatalab.github.io/responsible-data-science/)
+
+## Data visualization
+
++ [Critical Approaches to Data
+  Visualization](https://ucdavisdatalab.github.io/workshop_critical_data_viz/)
++ [Dynamic Data
+  Visualization](https://ucdavisdatalab.github.io/workshop_dynamic_data_viz)
++ [Network Visualization](https://ucdavisdatalab.github.io/workshop_network_viz/)
++ [Principles of Data
+  Visualization](https://ucdavisdatalab.github.io/workshop_data_viz_principles/)
 
 ## GIS
 
 + [Building Web Maps with Leaflet](https://ucdavisdatalab.github.io/workshop_web_maps/)
-+ [Cartography for Map Figures in Academic Journals & Books](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures)
++ [Cartography for Map Figures in Academic Journals and
+  Books](https://github.com/MicheleTobias/Workshop-Cartography-Journal-Figures)
 + [Coordinate Reference
-Systems](https://ucdavisdatalab.github.io/workshop_coordinate_reference_systems/)
+  Systems](https://ucdavisdatalab.github.io/workshop_coordinate_reference_systems/)
 + [Geocoding](https://github.com/MicheleTobias/geocoding-workshop)
 + [Introduction to Desktop GIS with
-QGIS](https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/)
+  QGIS](https://ucdavisdatalab.github.io/Intro-to-Desktop-GIS-with-QGIS/)
 + [Spatial SQL with SpatiaLite](https://github.com/ucdavisdatalab/Spatial_SQL)
 
-## Miscellaneous
+## Julia
 
-+ [Dynamic Data
-Visualization](https://ucdavisdatalab.github.io/workshop_dynamic_data_viz)
-+ [Network Visualization](https://ucdavisdatalab.github.io/workshop_network_viz/)
-+ [Reproducibility Principles and
-  Practices](https://ucdavisdatalab.github.io/workshop_reproducible_research/)
++ [Julia
+  Basics](https://ucdavisdatalab.github.io/workshop_julia_basics/chapters/index.html)
 
 ## Python
 
-+ [Getting Started with Textual
-Data](https://ucdavisdatalab.github.io/workshop_getting_started_with_textual_data/)
 + [Intermediate
-Python](https://ucdavisdatalab.github.io/workshop_intermediate_python)
-+ [Natural Language Processing with
-Python](https://ucdavisdatalab.github.io/workshop_nlp_with_python/)
-+ [Optical Character Recognition and Working with Messy Text
-Data](https://ucdavisdatalab.github.io/workshop_ocr_python)
+  Python](https://ucdavisdatalab.github.io/workshop_intermediate_python)
 + [Python
-Basics](https://ucdavisdatalab.github.io/workshop_python_basics)
+  Basics](https://ucdavisdatalab.github.io/workshop_python_basics)
 
 ## R
 
 + [Intermediate R](https://ucdavisdatalab.github.io/workshop_intermediate_r/)
-+ [Introduction to Basic Statistics with
-R](https://ucdavisdatalab.github.io/basic_stats_r_1/)
-+ [Introduction to Spatial Statistics in
-R](https://ucdavisdatalab.github.io/workshop-spatial-stats/)
-+ [Model
-Validation](https://ucdavisdatalab.github.io/workshop-model-validation/)
 + [R Basics](https://ucdavisdatalab.github.io/workshop_r_basics/)
+
+## Statistics
+
++ [Introduction to Basic Statistics with
+  R](https://ucdavisdatalab.github.io/basic_stats_r_1/)
++ [Introduction to Spatial Statistics in
+  R](https://ucdavisdatalab.github.io/workshop-spatial-stats/)
++ [Model
+  Validation](https://ucdavisdatalab.github.io/workshop-model-validation/)
++ [A Practical Introduction to Regression Modeling in
+  R](https://ucdavisdatalab.github.io/workshop_regression/)
+
+## Text Mining and Natural Language Processing
+
++ [Getting Started with Textual
+  Data](https://ucdavisdatalab.github.io/workshop_getting_started_with_textual_data/)
++ [Natural Language Processing with
+  Python](https://ucdavisdatalab.github.io/workshop_nlp_with_python/)
++ [Optical Character Recognition and Working with Messy Text
+  Data](https://ucdavisdatalab.github.io/workshop_ocr_python)
 
 ## Version Control
 
 + [Introduction to Version
-Control](https://ucdavisdatalab.github.io/workshop_introduction_to_version_control/)
+  Control](https://ucdavisdatalab.github.io/workshop_introduction_to_version_control/)
 + [Reproducible Research for Teams with
-GitHub](https://ucdavisdatalab.github.io/workshop_git_for_teams/)
+  GitHub](https://ucdavisdatalab.github.io/workshop_git_for_teams/)
