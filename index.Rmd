@@ -52,6 +52,8 @@ the DataLab's [workshop archive page](https://datalab.ucdavis.edu/workshops/).
 
 + [Introduction to the Command
   Line](https://ucdavisdatalab.github.io/workshop_introduction_to_the_command_line/)
++ [Introduction to Remote
+Computing](https://ucdavisdatalab.github.io/workshop_intro_to_remote_computing/chapters/index.html)
 + [Introduction to SQL for Querying
   Databases](https://ucdavisdatalab.github.io/workshop_intro_to_sql/)
 
