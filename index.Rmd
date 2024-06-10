@@ -126,6 +126,8 @@ Computing](https://ucdavisdatalab.github.io/workshop_intro_to_remote_computing/c
   Data](https://ucdavisdatalab.github.io/workshop_getting_started_with_textual_data/)
 + [Natural Language Processing with
   Python](https://ucdavisdatalab.github.io/workshop_nlp_with_python/)
++ [Natural Language Processing for Data
+  Science](https://ucdavisdatalab.github.io/workshop_nlp_reader/chapters/index.html#)
 + [Optical Character Recognition and Working with Messy Text
   Data](https://ucdavisdatalab.github.io/workshop_ocr_python)
 
