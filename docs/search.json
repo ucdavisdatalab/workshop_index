@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Workshop Index",
+    "section": "",
+    "text": "Looking for more information about DataLab workshops?\n\n\n\nTake a look at our Workshop Descriptions and Materials page.\nThis page is intended to make it easy for learners in workshops to quickly find to the appropriate reader."
+  },
+  {
+    "objectID": "index.html#computing-basics",
+    "href": "index.html#computing-basics",
+    "title": "Workshop Index",
+    "section": "Computing Basics",
+    "text": "Computing Basics\n\nIntroduction to the Command Line\nIntroduction to Remote Computing\nIntroduction to SQL for Querying Databases"
+  },
+  {
+    "objectID": "index.html#data-science-concepts",
+    "href": "index.html#data-science-concepts",
+    "title": "Workshop Index",
+    "section": "Data Science Concepts",
+    "text": "Data Science Concepts\n\nDeveloping Your Data Science Portfolio\nExcelling with Excel\nREADME, Write Me! Digital Project Organization and Documentation\nReproducibility Principles and Practices\nResponsible Data Science"
+  },
+  {
+    "objectID": "index.html#data-visualization",
+    "href": "index.html#data-visualization",
+    "title": "Workshop Index",
+    "section": "Data Visualization",
+    "text": "Data Visualization\n\nCritical Approaches to Data Visualization\nDynamic Data Visualization\nNetwork Visualization\nPrinciples of Data Visualization"
+  },
+  {
+    "objectID": "index.html#gis",
+    "href": "index.html#gis",
+    "title": "Workshop Index",
+    "section": "GIS",
+    "text": "GIS\n\nBuilding Web Maps with Leaflet\nCartography for Map Figures in Academic Journals and Books\nCoordinate Reference Systems\nGeocoding\nIntroduction to Desktop GIS with QGIS\nSpatial SQL with SpatiaLite"
+  },
+  {
+    "objectID": "index.html#julia",
+    "href": "index.html#julia",
+    "title": "Workshop Index",
+    "section": "Julia",
+    "text": "Julia\n\nJulia Basics"
+  },
+  {
+    "objectID": "index.html#python",
+    "href": "index.html#python",
+    "title": "Workshop Index",
+    "section": "Python",
+    "text": "Python\n\nIntermediate Python\nPython Basics"
+  },
+  {
+    "objectID": "index.html#r",
+    "href": "index.html#r",
+    "title": "Workshop Index",
+    "section": "R",
+    "text": "R\n\nIntermediate R\nR Basics"
+  },
+  {
+    "objectID": "index.html#statistics",
+    "href": "index.html#statistics",
+    "title": "Workshop Index",
+    "section": "Statistics",
+    "text": "Statistics\n\nIntroduction to Basic Statistics with R\nIntroduction to Spatial Statistics in R\nModel Validation\nA Practical Introduction to Regression Modeling in R"
+  },
+  {
+    "objectID": "index.html#text-mining-and-natural-language-processing",
+    "href": "index.html#text-mining-and-natural-language-processing",
+    "title": "Workshop Index",
+    "section": "Text Mining and Natural Language Processing",
+    "text": "Text Mining and Natural Language Processing\n\nGetting Started with Textual Data\nNatural Language Processing with Python\nNatural Language Processing for Data Science\nOptical Character Recognition and Working with Messy Text Data"
+  },
+  {
+    "objectID": "index.html#version-control",
+    "href": "index.html#version-control",
+    "title": "Workshop Index",
+    "section": "Version Control",
+    "text": "Version Control\n\nIntroduction to Version Control\nReproducible Research for Teams with GitHub"
+  }
+]
