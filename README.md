@@ -1,7 +1,7 @@
 # UC DataLab Workshop Index
 
 _[UC Davis DataLab](https://datalab.ucdavis.edu/)_  
-_Maintainer: Tyler Shoemaker <<tshoemaker@ucdavis.edu>>_
+_Maintainer: Nick Ulle <<naulle@ucdavis.edu>>_
 
 * [Reader](https://ucdavisdatalab.github.io/workshop_index)
 
