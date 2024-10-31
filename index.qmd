@@ -1,8 +1,13 @@
 ---
-title: UC Davis DataLab Workshop Index
-#author: [YOUR NAME]
-date: "`r Sys.Date()`"
+title: "Workshop Index"
+author:
+  - name: "DataLab"
+    url: "https://datalab.ucdavis.edu/"
+    affiliations: "University of California, Davis"
+date: today
+---
 
+<!--
 github-repo: https://github.com/ucdavisdatalab/workshop_index
 url: "https://ucdavisdatalab.github.io/workshop_index/"
 
@@ -29,24 +34,20 @@ output:
       view: https://github.com/ucdavisdatalab/workshop_index/blob/main/%s
       edit: https://github.com/ucdavisdatalab/workshop_index/edit/main/%s
 ---
+-->
 
-# Workshop Reader Registry {-}
+::: {.callout-important}
+## Looking for more information about DataLab workshops?
 
-Listed below are links to various workshop resources maintained by the UC Davis
-DataLab. Want to know more information about a specific workshop session? Visit
-the DataLab's [workshop archive page](https://datalab.ucdavis.edu/workshops/).
+Take a look at our [Workshop Descriptions and Materials
+page][datalab-workshops].
 
-1.  [Computing basics](#computing-basics)
-2.  [Data science concepts](#data-science-concepts)
-3.  [Data visualization](#data-visualization)
-4.  [GIS](#gis)
-5.  [Julia](#julia)
-6.  [Python](#python)
-7.  [R](#r)
-8.  [Statistics](#statistics)
-9.  [Text mining and natural language
-    processing](#text-mining-and-natural-language-processing)
-10. [Version Control](#version-control)
+[datalab-workshops]: https://datalab.ucdavis.edu/workshops/descriptions/
+:::
+
+This page is intended to make it easy for learners *in workshops* to quickly
+find to the appropriate reader.
+
 
 ## Computing Basics
 
@@ -57,7 +58,8 @@ Computing](https://ucdavisdatalab.github.io/workshop_intro_to_remote_computing/c
 + [Introduction to SQL for Querying
   Databases](https://ucdavisdatalab.github.io/workshop_intro_to_sql/)
 
-## Data science concepts
+
+## Data Science Concepts
 
 + [Developing Your Data Science
   Portfolio](https://ucdavisdatalab.github.io/workshop_portfolios/)
@@ -70,7 +72,7 @@ Computing](https://ucdavisdatalab.github.io/workshop_intro_to_remote_computing/c
 + [Responsible Data
   Science](https://ucdavisdatalab.github.io/responsible-data-science/)
 
-## Data visualization
+## Data Visualization
 
 + [Critical Approaches to Data
   Visualization](https://ucdavisdatalab.github.io/workshop_critical_data_viz/)

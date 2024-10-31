@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: "docs/"
+  render:
+    - "index.qmd"
+
+website:
+  title: "Workshop Index"
+  search: false
+  repo-url: "https://github.com/ucdavisdatalab/workshop_index"
+  repo-actions: [issue, source]
+  navbar:
+    title: false
+    logo: "images/datalab-logo-full-color-rgb-1.png"
+    logo-alt: "The logo of the UC Davis DataLab."
+    logo-href: "https://datalab.ucdavis.edu/"
+    pinned: true  # always display
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    include-in-header:
+      - text: |
+          <style>
+          .navbar-logo {
+            max-height: 3em;
+            max-width: 50vw;
+          }
+          </style>
