@@ -45,6 +45,15 @@ page][datalab-workshops].
 [datalab-workshops]: https://datalab.ucdavis.edu/workshops/descriptions/
 :::
 
+::: {.callout-tip}
+## Wondering how all of these workshops fit together?
+
+Take a look at our [Reproducibility Principles and Practices workshop
+reader][repro].
+
+[repro]: https://ucdavisdatalab.github.io/workshop_reproducible_research/
+:::
+
 This page is intended to make it easy for learners *in workshops* to quickly
 find to the appropriate reader.
 
