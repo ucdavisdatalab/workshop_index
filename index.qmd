@@ -106,7 +106,7 @@ Computing](https://ucdavisdatalab.github.io/workshop_intro_to_remote_computing/c
 ## Julia
 
 + [Julia
-  Basics](https://ucdavisdatalab.github.io/workshop_julia_basics/chapters/index.html)
+  Basics](https://ucjug.github.io/workshop_julia_basics/)
 
 ## Python
 
